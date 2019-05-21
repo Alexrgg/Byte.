@@ -1,6 +1,6 @@
 # Byte.
 
-**Poryecto final de la asignatura  de Programación Orientada a Objetos de la U.P.de Comillas **
+ **Poryecto final de la asignatura  de Programación Orientada a Objetos de la U.P.de Comillas **
 
 Editor de texto enfocado al desarrollo de programas en java. Dentro de la app podras editar los archivos de tus programas a la vez que los compilas y ejecutas de forma sencilla.
 
