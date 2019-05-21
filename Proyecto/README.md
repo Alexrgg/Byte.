@@ -22,7 +22,7 @@ El programa sigue una estructura de paquetes, estando dividido en tres bloques: 
 
 El paquete **dominio** contiene los objetos de la aplicación, en este caso esta solo compuesta por un único objeto **Documentos**.  
 
-![alt text](https://github.com/Alexrgg/Programacio_Objetos/blob/master/Editor_de_texto/Info/img/estructuraPaquetes.jpg)
+![alt text](https://github.com/Alexrgg/Byte./blob/master/Proyecto/img/estructuraPaquetes.jpg)
 
 ## Objetos
 Contenidos en el paquete [dominio](#estructura).
@@ -699,7 +699,7 @@ public static void compilarArchivo(JEditorTexto jEditorTexto){
 ```
 Se ha tenido encuenta que si al ejecutar el programa este no se ha compilado con anterioridad no se ejecute.En su lugar se muestra un mensaje de error en el que se indica que debe compilarse antes de ejecutarlo.
 
-![alt text](https://github.com/Alexrgg/Programacio_Objetos/blob/master/Editor_de_texto/Info/img/errorNoCompilado.jpg)
+![alt text](https://github.com/Alexrgg/Byte./blob/master/Proyecto/img/errorNoCompilado.jpg)
 
 
 ###### Codigo función:
@@ -760,25 +760,25 @@ public static void ejecutarArchivo(JEditorTexto jEditorTexto){
 
 Ventana principal:
 
-![alt text](https://github.com/Alexrgg/Programacio_Objetos/blob/master/Editor_de_texto/Info/img/ventana.jpg)
+![alt text](https://github.com/Alexrgg/Byte./blob/master/Proyecto/img/ventana.jpg)
 
 Cambiar el formato y el tamaño de la fuente:
 
-![alt text](https://github.com/Alexrgg/Programacio_Objetos/blob/master/Editor_de_texto/Info/img/cambiar_formato.jpg)
+![alt text](https://github.com/Alexrgg/Byte./blob/master/Proyecto/img/cambiar_formato.jpg)
 
 Compilación y ejecución de un programa con varias cases (en este caso un programa gráfico):
 
-![alt text](https://github.com/Alexrgg/Programacio_Objetos/blob/master/Editor_de_texto/Info/img/ejecucion_finalizada.jpg)
+![alt text](https://github.com/Alexrgg/Byte./blob/master/Proyecto/img/ejecucion_finalizada.jpg)
 
 > En el terminal en la linea "[0]>>"  no aparece el comando **compile** porque se compiló desde la opción del JMenu (Programer->Compile)
 
 Detección de error al compilar:
 
-![alt text](https://github.com/Alexrgg/Programacio_Objetos/blob/master/Editor_de_texto/Info/img/error_compilacion.jpg)
+![alt text](https://github.com/Alexrgg/Byte./blob/master/Proyecto/img/error_compilacion.jpg)
 
 Guardar la ejecucion:
 
-![alt text](https://github.com/Alexrgg/Programacio_Objetos/blob/master/Editor_de_texto/Info/img/save_ejecucion.jpg)
+![alt text](https://github.com/Alexrgg/Byte./blob/master/Proyecto/img/save_ejecucion.jpg)
 
 
 ## Futuras realizaciones
