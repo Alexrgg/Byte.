@@ -186,7 +186,7 @@ JToolBar toolBar;
 
 La implementación de las acciones de estos componetes se han realizado mediante el uso de **ActionListener**. Toda la lógica del editor se realiza mediante métodos estáticos localizados en las clases  [FuncionesProgramador](#funciones-programacion) y [FuncionesEditor](#funciones-editor) localizados en el paquete [logica](#estructura).
 
-#####Ejemplo:
+##### Ejemplo:
 ```java
 menuItemGuardarComo.addActionListener(new ActionListener(){
       @Override
