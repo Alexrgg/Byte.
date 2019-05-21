@@ -20,7 +20,7 @@
 ## Estructura
 El programa sigue una estructura de paquetes, estando dividido en tres bloques: **dominio**, **logica** y **ui**. Estos tres bloques se encuentra detro del paquete **jeditortexto**.
 
-El paquete **dominio** contiene los objetos de la aplicación, en este caso esta solo compuesta por un único objeto **Documentos**.  
+El paquete **dominio** contiene los objetos de la aplicación, en este caso esta solo compuesta por un único objeto **Documentos**.  El paquete **logica** contiene los métodos estáticos que se encargan de realizar funciones generales del editor. El paquete **ui** contiene todas las clases que interaccionan con la interfaz de usuario. 
 
 ![alt text](https://github.com/Alexrgg/Byte./blob/master/Proyecto/img/estructuraPaquetes.jpg)
 
