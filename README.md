@@ -1,5 +1,7 @@
 # Byte.
+
 **Poryecto final de la asignatura  de Programación Orientada a Objetos de la U.P.de Comillas **
+![alt text](https://github.com/Alexrgg/Byte./blob/master/logo.jpg)
 
 ###Contenido
 
