@@ -290,7 +290,7 @@ public void cerrarVentana(JEditorTexto jEditorTexto){
   }
 }
 ```
-#####Función isActualizado()
+##### Función isActualizado()
 Devuelve true si se a modificado el archivo después de la última vez que ha sido guardado.
 
 ```java
@@ -304,7 +304,7 @@ public boolean isActualizado(){
     return false;
 }
 ```
-#####Función isSaved()
+##### Función isSaved()
 Devuelve true si el archivo ha sido guardado alguna vez.
 
 ```java
