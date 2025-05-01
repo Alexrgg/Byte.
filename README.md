@@ -1,15 +1,14 @@
-# Byte.
+# Byte
 
-#### Poryecto final de la asignatura  de Programación Orientada a Objetos de la U.P.de Comillas **
+#### Proyecto final de la asignatura de Programación Orientada a Objetos (ICAI - Universidad Pontificia Comillas)
 
-Editor de texto enfocado al desarrollo de programas en java. Dentro de la app podras editar los archivos de tus programas a la vez que los compilas y ejecutas de forma sencilla.
+Byte es un editor de texto enfocado al desarrollo de programas en Java. Permite editar, compilar y ejecutar archivos Java directamente desde la aplicación de forma sencilla.
+
+📚 El repositorio general de la asignatura, que contiene las prácticas previas, está disponible aquí: [Programacio_Objetos](https://github.com/Alexrgg/Programacio_Objetos)
 
 ### Contenido
 
-*Bin-> Contiene el ejecutable en forma de ".jar".
-
-*Javadoc-> La documentación JAVADOC que se ha realizado sobre el proyecto.
-
-*Proyecto-> Contiene toda la documentación del código.
-
-*Sources-> Todos los archivos de la aplicación.
+- **Bin/**: Contiene el ejecutable en formato `.jar`.
+- **Javadoc/**: Documentación generada automáticamente con Javadoc.
+- **Proyecto/**: Documentación del desarrollo del proyecto.
+- **Sources/**: Código fuente completo de la aplicación.
